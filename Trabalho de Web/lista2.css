@@ -1,0 +1,28 @@
+body{
+    background-color: #ca931cd0;
+    border: 4px dotted #00e1ff8e;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+h2{
+    font-size:25px;
+    color: #2F4F4F;
+    text-shadow : 3px 3px 3px #ff4800c9;
+    -webkit-text-stroke-width:2px;
+    -webkit-text-stroke-color:#000;
+    margin-Left: 15%;
+}
+h3{
+    font-size: 25px;
+    color:#2F4F4F;
+    text-shadow: 3px 3px 3px #00FF00;
+    -webkit-text-stroke-width:2px;
+    -webkit-text-stroke-color:#000;
+    margin-Left:15%;                                                                                    
+}
+
+ul,ol{
+    color: #2F4F4F;
+     margin-left: 10% ;
+
+}

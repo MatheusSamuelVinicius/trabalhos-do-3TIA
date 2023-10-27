@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(165, 49, 49);
+  }
+  
+  h1 {
+    color: rgb(250, 172, 27);
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 23px;
+  }
+  table, th, td {
+    border: 1px solid rgb(27, 27, 20);
+    border-collapse: collapse;
+    text-align: center;
+  }
+  table{
+    width:50%;
+  }
+ 
